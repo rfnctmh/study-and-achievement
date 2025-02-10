@@ -10,14 +10,17 @@
 - **學習方式**: 線上課程。
 
 ![alt text](images/az-204.png)
-### AZ-104 認證
-- **內容**: 此認證針對中級Azure管理員，驗證您在實施、管理和監控Azure雲端身份、計算、儲存、虛擬網路和治理方面的能力。通過考試獲得Microsoft Certified: Azure Administrator Associate 證書。
+### Microsoft Certified: Azure Administrator Associate
+- **內容**: 通過AZ-104考試取得此認證，針對中級 Azure 管理員，驗證您在實施、管理和監控Azure雲端身份、計算、儲存、虛擬網路和治理方面的能力。
 - **學習方式**: 自主學習。
-### AZ-305 認證
-- **內容**: 此認證專注於設計Microsoft Azure基礎結構解決方案，幫助 IT 專業人士掌握在 Azure 上設計和構建企業級雲解決方案的能力。通過考試獲得Microsoft Certified: Azure Solutions Architect Expert 證書。
+### Microsoft Certified: Azure Solutions Architect Expert
+- **內容**: 通過AZ-104、AZ-305考試取得此認證，專注於設計 Microsoft Azure 基礎結構解決方案，幫助IT專業人士掌握在Azure上設計和構建企業級雲解決方案的能力。
 - **學習方式**: 自主學習。
-### MS-102 測驗
-- **內容**: 此測驗提升Microsoft 365系統管理與維護能力。掌握帳號管理、權限設定、群組配置及資料安全等操作，確保企業環境的高效運行。
+### Microsoft Certified: Identity and Access Administrator Associate
+- **內容**: 通過SC-300考試取得此認證，專注於設計、實施和管理 Azure Active Directory（Azure AD）中的身份與存取解決方案。涵蓋身份管理、存取控制、條件式存取和身份治理等主題。
+- **學習方式**: 自主學習。
+### Microsoft 365 Certified: Administrator Expert
+- **內容**: 通過SC-300、MS-102考試取得此認證，提升 Microsoft 365 系統管理與維護能力，涵蓋帳號管理、權限設定、群組配置、資料安全及合規性管理等操作。
 - **學習方式**: 自主學習。
 
 ![alt text](images/microsoft.png)
