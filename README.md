@@ -22,8 +22,11 @@
 ### Microsoft 365 Certified: Administrator Expert
 - **內容**: 通過SC-300、MS-102考試取得此認證，提升 Microsoft 365 系統管理與維護能力，涵蓋帳號管理、權限設定、群組配置、資料安全及合規性管理等操作。
 - **學習方式**: 自主學習。
+### Microsoft Certified: Azure AI Engineer Associate
+- **內容**: 通過AI-102考試取得此認證，專注於設計與實作Azure上的AI解決方案。內容涵蓋語音辨識、自然語言處理、電腦視覺、知識探勘及Azure AI服務（如 Azure OpenAI、Cognitive Services）的應用整合。
+- **學習方式**: 自主學習。
 
-![alt text](images/microsoft.png)
+[Microsoft 成績單](https://learn.microsoft.com/en-us/users/chrischueh-1427/transcript/d5o8yhw609q69gy)
 ### AWS 雲端架構規劃與建置實務
 - **內容**: 學習 AWS 雲端服務架構與資源配置，實作多個案例，了解企業高效、安全的雲端架構建立方法。
 - **學習方式**: 線上課程。
