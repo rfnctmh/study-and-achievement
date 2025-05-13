@@ -18,16 +18,6 @@
 
 ### [Microsoft 成績單](https://learn.microsoft.com/en-us/users/chrischueh-1427/transcript/d5o8yhw609q69gy)
 
-### AZ-104 課程
-- **內容**: 強化對 Azure 雲端環境的管理與配置，學習維護虛擬機器、資料庫、虛擬網路等資源，提升雲端技術專業知識。認證考試涵蓋 Azure 身分識別、治理、儲存體、計算和虛擬網路的實作與管理。
-- **學習方式**: 實體課程。
-
-![alt text](images/az-104.png)
-### AZ-204 課程
-- **內容**: 開發適用於 Microsoft Azure 的解決方案，涵蓋 Azure 計算、儲存、容器化應用及安全性等技術。
-- **學習方式**: 線上課程。
-
-![alt text](images/az-204.png)
 ### Windows PowerShell 自動化管理（AZ-040）
 - **內容**: 完成 PowerShell 課程，掌握系統自動化技能，顯著提升工作效率，減少手動操作錯誤。
 - **學習方式**: 實體課程。
@@ -53,6 +43,18 @@
 - **學習方式**: 線上課程。
 
 ![alt text](images/gcp-k8s.png)
+### 生成式 AI 工具（Generative AI Tools）
+- **內容**: 了解語言模型（如 GPT）的應用原理，熟悉其於內容生成、流程輔助與問題解決等實務場景的應用，具備基礎 Prompt Engineering 概念。
+- **學習方式**: 自主學習。
+
+### Ansible
+- **內容**: 掌握 Ansible 的組態管理與自動化部署流程，能撰寫 playbook 管理伺服器設定，提升維運效率並降低人工作業風險。
+- **學習方式**: 自主學習。
+
+### Terraform
+- **內容**: 熟悉基礎設施即程式碼（Infrastructure as Code, IaC）概念，能使用 Terraform 定義並自動化部署雲端資源（如 Azure、AWS）。
+- **學習方式**: 自主學習。
+
 ### 軟體開發與版本控制（Git、GitHub）
 - **內容**: 理解 Git 和 GitHub 應用，學會版本控制與協作開發，確保專案運作和代碼一致性。
 - **學習方式**: 自主學習。
